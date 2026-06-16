@@ -42,7 +42,7 @@ All images are saved inside the **outputs/** folder.
 
 ---
 
-## 📁 Folder Structure -Downloads/ds_Vislavath_Hathiram
+## Folder Structure -Downloads/ds_Vislavath_Hathiram
 ds_vislavath_hathiram/
 ├── notebook_1.ipynb
 ├── csv_files/
